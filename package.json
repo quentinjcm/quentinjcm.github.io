@@ -1,0 +1,22 @@
+{
+  "name": "quentinjcm.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentinjcm/quentinjcm.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quentinjcm/quentinjcm.github.io/issues"
+  },
+  "homepage": "https://github.com/quentinjcm/quentinjcm.github.io#readme",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

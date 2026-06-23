@@ -21,6 +21,8 @@
       // the space between the rows / columns
       gutter        : '5px',
 
+      img_width     : '100%',
+
       // Optional
       // wrap the images in a vs. div and link to the data-highres images
       highresLinks  : false,
@@ -196,7 +198,7 @@
             'box-sizing': 'border-box'
           });
           $images.css({
-            'width': '100%',
+            'width': options.img_width,
             'height': 'auto'
           });
           if(options.borderActive){

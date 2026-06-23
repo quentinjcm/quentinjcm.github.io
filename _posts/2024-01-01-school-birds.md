@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: School Birds
-featured-image: /images/school-birds/sb_banner_c.png
+featured-image: /images/school-birds/sb_banner_d.png
 tags: [film, art]
 date-string: January 2024
 ---
