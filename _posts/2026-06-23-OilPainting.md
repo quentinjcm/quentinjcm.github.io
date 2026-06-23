@@ -23,10 +23,10 @@ Then in May 2026 I went back to LFAS for a week long course taught by [Patrick B
 ## Day 1
 <center>
     <div class="photoset-grid-custom" data-layout="4">
-        <img src="/images/oils/img_7102_A_proxy.png" data-highres="True">
-        <img src="/images/oils/img_7102_b_proxy.png" data-highres="True">
-        <img src="/images/oils/img_7102_c_proxy.png" data-highres="True">
-        <img src="/images/oils/img_7102_d_proxy.png" data-highres="True">
+        <img src="/images/oils/IMG_7102_A_proxy.png" data-highres="True">
+        <img src="/images/oils/IMG_7102_b_proxy.png" data-highres="True">
+        <img src="/images/oils/IMG_7102_c_proxy.png" data-highres="True">
+        <img src="/images/oils/IMG_7102_d_proxy.png" data-highres="True">
     </div>
 </center>
 
@@ -76,7 +76,7 @@ This whole process is drawing a map that will make the rendering easier when we 
 
 <center>
     <div class="photoset-grid-custom-mono" data-layout="1">
-        <img src="/images/oils/img_7113_proxy.png" data-highres="True">
+        <img src="/images/oils/IMG_7113_proxy.png" data-highres="True">
     </div>
 </center>
 
