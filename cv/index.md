@@ -79,19 +79,16 @@ life and advise them on assignments they are given.
 | *Spanish* | **A** |
 -->
 
-## Talks
-**2026**
-: **Quentin Corker-Marin: Freelance VFX Artist** <br> Movement, Art in Flux in collaboration with University of Greenwich. 07/05/2026 <br> Part of a series of talks with a panel discussion for students from a variety of courses studying digital media, focused on the careers of women where I spoke about my career and day to day role as a freelance VFX artist.
-
-
-: **Of the Oak: Digital Representations of Nature** <br> LOOP, Moving Image & Digital Arts Programme, LCC, UAL. 02/02/2026 <br> Part of a series of talks from artists across the animation and digital arts space where I spoke specifically about my role as lead artist on Marshmallow Laser Feasts _Of the Oak_ installation at Kew Gardens.
-
-
 ## Exhibitions
 **2019**
 : Concrete Salon. Group exhibition at the Barbican Centre as part of the Young Visual Arts Group
 
 ## Publications and Presentations
+**2026**
+: **Quentin Corker-Marin: Freelance VFX Artist** <br> Movement, Art in Flux in collaboration with University of Greenwich. 07/05/2026 <br> Part of a series of talks with a panel discussion for students from a variety of courses studying digital media, focused on the careers of women in animation. I spoke about my career and day to day role as a freelance VFX artist.
+
+: **Of the Oak: Digital Representations of Nature** <br> LOOP, Moving Image & Digital Arts Programme, LCC, UAL. 02/02/2026 <br> Part of a series of talks from artists across the animation and digital arts space where I spoke specifically about my role as lead artist on Marshmallow Laser Feast's _Of the Oak_ installation at Kew Gardens.
+
 **2018**
 : Q. Corker-Marin, A. Pasko and V. Adzhiev, ”4D Cubism: Modeling, Animation, and Fabrication of
 Artistic Shapes,” in IEEE Computer Graphics and Applications, vol. 38, no. 3, pp. 131-139, 2018. doi:10.1109/MCG.2018.032421
